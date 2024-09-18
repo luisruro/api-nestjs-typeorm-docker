@@ -1,5 +1,5 @@
 services:
-  easy-order:
+  postgres:
     image: postgres:16
     restart: always
     ports:
